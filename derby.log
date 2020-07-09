@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Jul 08 22:51:14 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-0173-2f72-1b6d-00000634a840 
+on database directory C:\Users\pmama\.membership-manager-pro\membership_manager_pro with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a 
+Loaded from file:/C:/Users/pmama/IdeaProjects/membership-manager-pro/target/membership-manager-pro-1.0-SNAPSHOT.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=C:\Users\pmama\IdeaProjects\membership-manager-pro
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
